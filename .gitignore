@@ -117,3 +117,7 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+#don't upload large files from week 11 NLP topic modeling folder
+**/npr.csv
+**/quora_questions.csv
